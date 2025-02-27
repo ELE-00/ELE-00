@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/elvintyagi/](https://www.linkedin.com/in/elvintyagi/)
 
-- ⚡ Fun fact **My friends like to play "Guess where Elvin is from" game with new people I meet because my looks are deceiving.**
+- ⚡ Fun fact: **My friends like to play "Guess where Elvin is from" game with new people I meet because my looks are deceiving.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
