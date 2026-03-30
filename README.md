@@ -3,7 +3,7 @@
 
 - 🔭 My portfolio [https://elvintyagi.framer.website/](https://elvintyagi.framer.website/) 
 
-- 🌱 I’m currently learning **JavaScript and React Native**
+- 🌱 I’m currently developing skills in **JavaScript and React/Node.js**
 
 - 📫 How to reach me **elvin.tgi@gmail.com**
 
