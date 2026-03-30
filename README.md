@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elvin Tyagi</h1>
 <h3 align="center">A passionate software developer from Ukraine</h3>
 
-- 🔭 I’m currently working on a personal project called [Raver's Diary](https://github.com/ELE-00/RaversDiary)
+- 🔭 My portfolio [https://elvintyagi.framer.website/](https://elvintyagi.framer.website/) 
 
 - 🌱 I’m currently learning **JavaScript and React Native**
 
